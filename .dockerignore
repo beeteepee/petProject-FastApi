@@ -1,0 +1,4 @@
+.venv
+DockerFile 
+__pycache__
+task.db
